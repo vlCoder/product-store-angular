@@ -4,11 +4,12 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { Products } from '../../types/products.interface';
 import { FormComponent } from '../../shared/components/form/form.component';
+import { MatButtonModule } from '@angular/material/button';
 
 @Component({
   selector: 'app-edit',
   standalone: true,
-  imports: [FormComponent, RouterLink],
+  imports: [FormComponent, RouterLink, MatButtonModule],
   templateUrl: './edit.component.html',
   styleUrl: './edit.component.scss'
 })
