@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "186c",
+      "title": "Bermuda Dead Fish",
+      "price": "90"
+    },
+    {
+      "id": "bad1",
+      "title": "Calça Dickers",
+      "price": "200"
+    },
+    {
+      "id": "ef73",
+      "title": "Cueca Homer Simpson",
+      "price": "60"
+    },
+    {
+      "id": "8acb",
+      "title": "Camiseta Dead Fish",
+      "price": "60"
+    },
+    {
+      "id": "89b2",
+      "title": "Meias Stanley",
+      "price": "80"
+    }
+  ]
+}
